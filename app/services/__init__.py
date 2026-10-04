@@ -1,1 +1,1 @@
-"""Calculator service package."""
+"""Business services used by the API layer."""

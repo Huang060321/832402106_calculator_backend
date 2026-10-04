@@ -1,1 +1,1 @@
-"""Calculator back-end package."""
+"""Backend package for the separated calculator system."""
